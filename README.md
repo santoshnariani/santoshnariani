@@ -4,9 +4,9 @@
 
 #
 
-**Python · Cloud & DevOps · LLM Builder**
+**Python · Cloud & DevOps · Building AI Agents & Agentic Systems**
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Python+%7C+FastAPI+%7C+Pydantic;Docker+%7C+Kubernetes+%7C+AWS;Building+with+LLMs+%7C+Claude+%7C+NVIDIA" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Building+AI+agents+with+LLMs;Designing+agentic+systems;Python+%7C+FastAPI+%7C+Pydantic;Docker+%7C+Kubernetes+%7C+AWS" alt="Typing SVG" />
 
 </div>
 
