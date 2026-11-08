@@ -38,5 +38,26 @@
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Google Colab](https://img.shields.io/badge/Google_Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=white)
 
+
+## 🏅 Certifications
+
+| Certification | Issuer | Validity | Earned |
+|---------------|--------|----------|--------|
+| 🟠 **Claude Certified Architect – Professional** | Anthropic | 1 year | 2026 |
+| 🟠 **Claude Certified Architect – Foundations** | Anthropic | 1 year | 2026 |
+| 🟠 **Claude Certified Developer – Foundations** | Anthropic | 1 year | 2026 |
+| 🟠 **Claude Certified Associate – Foundations** | Anthropic | 1 year | 2026 |
+| 🟢 **NVIDIA-Certified Associate: Generative AI LLMs** | NVIDIA | 2 years | 2026 |
+| 🔵 **Microsoft Certified: Azure Fundamentals** | Microsoft | Does not expire | 2024 |
+| 🟡 **AWS Certified Solutions Architect – Associate** | Amazon Web Services | Expired | 2018 |
+
+
+### 🚚 Logistics & Supply Chain
+
+| Certification | Issuer | Validity | Designation |
+|---------------|--------|----------|--------|
+| 📦 **Professional Designation in Logistics and Supply Chain Management** | AST&L / ASCM | Active | PLS |
+| 🚛 **Certified in Transportation and Logistics (CTL)** | AST&L / ASCM | Active | CTL |
+
 ---
 
