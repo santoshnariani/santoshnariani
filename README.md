@@ -41,23 +41,27 @@
 
 ## 🏅 Certifications
 
-| Certification | Issuer | Validity | Earned |
-|---------------|--------|----------|--------|
-| 🟠 **Claude Certified Architect – Professional** | Anthropic | 1 year | 2026 |
-| 🟠 **Claude Certified Architect – Foundations** | Anthropic | 1 year | 2026 |
-| 🟠 **Claude Certified Developer – Foundations** | Anthropic | 1 year | 2026 |
-| 🟠 **Claude Certified Associate – Foundations** | Anthropic | 1 year | 2026 |
-| 🟢 **NVIDIA-Certified Associate: Generative AI LLMs** | NVIDIA | 2 years | 2026 |
-| 🔵 **Microsoft Certified: Azure Fundamentals** | Microsoft | Does not expire | 2024 |
-| 🟡 **AWS Certified Solutions Architect – Associate** | Amazon Web Services | Expired | 2018 |
+### 🤖 AI & Cloud
 
+| Certification | Validity | Earned |
+|:--|:--:|:--:|
+| ![Claude_Certified_Architect_Professional](https://img.shields.io/badge/Anthropic-Claude_Certified_Architect_Professional-D97757?style=for-the-badge&labelColor=1f1f1f&logoColor=white&logo=anthropic) | ![Validity](https://img.shields.io/badge/Validity-1_year-E3A008?style=flat-square) | ![Earned](https://img.shields.io/badge/Earned-2026-555?style=flat-square) |
+| ![Claude_Certified_Architect_Foundations](https://img.shields.io/badge/Anthropic-Claude_Certified_Architect_Foundations-D97757?style=for-the-badge&labelColor=1f1f1f&logoColor=white&logo=anthropic) | ![Validity](https://img.shields.io/badge/Validity-1_year-E3A008?style=flat-square) | ![Earned](https://img.shields.io/badge/Earned-2026-555?style=flat-square) |
+| ![Claude_Certified_Developer_Foundations](https://img.shields.io/badge/Anthropic-Claude_Certified_Developer_Foundations-D97757?style=for-the-badge&labelColor=1f1f1f&logoColor=white&logo=anthropic) | ![Validity](https://img.shields.io/badge/Validity-1_year-E3A008?style=flat-square) | ![Earned](https://img.shields.io/badge/Earned-2026-555?style=flat-square) |
+| ![Claude_Certified_Associate_Foundations](https://img.shields.io/badge/Anthropic-Claude_Certified_Associate_Foundations-D97757?style=for-the-badge&labelColor=1f1f1f&logoColor=white&logo=anthropic) | ![Validity](https://img.shields.io/badge/Validity-1_year-E3A008?style=flat-square) | ![Earned](https://img.shields.io/badge/Earned-2026-555?style=flat-square) |
+| ![Certified_Associate_Generative_AI_LLMs](https://img.shields.io/badge/N_V_I_D_I_A-Certified_Associate_Generative_AI_LLMs-76B900?style=for-the-badge&labelColor=1f1f1f&logoColor=white&logo=nvidia) | ![Validity](https://img.shields.io/badge/Validity-2_years-2EA44F?style=flat-square) | ![Earned](https://img.shields.io/badge/Earned-2026-555?style=flat-square) |
+| ![Azure Fundamentals](https://img.shields.io/badge/Microsoft-Azure_Fundamentals-0078D4?style=for-the-badge&labelColor=1f1f1f&logoColor=white&logo=microsoftazure) | ![Validity](https://img.shields.io/badge/Validity-No_expiry-2EA44F?style=flat-square) | ![Earned](https://img.shields.io/badge/Earned-2024-555?style=flat-square) |
+| ![Certified_Solutions_Architect_Associate](https://img.shields.io/badge/AWS-Certified_Solutions_Architect_Associate-FF9900?style=for-the-badge&labelColor=1f1f1f&logoColor=white&logo=amazonwebservices) | ![Validity](https://img.shields.io/badge/Validity-Expired-2EA44F?style=flat-square) | ![Earned](https://img.shields.io/badge/Earned-2018-555?style=flat-square) |
 
 ### 🚚 Logistics & Supply Chain
 
-| Certification | Issuer | Validity | Designation |
-|---------------|--------|----------|--------|
-| 📦 **Professional Designation in Logistics and Supply Chain Management** | AST&L / ASCM | Active | PLS |
-| 🚛 **Certified in Transportation and Logistics (CTL)** | AST&L / ASCM | Active | CTL |
+| Certification | Validity | Designation |
+|:--|:--:|:--:|
+| ![Logistics_%26_Supply_Chain_Management](https://img.shields.io/badge/Professional_Designation-Logistics_%26_Supply_Chain_Management-00897B?style=for-the-badge&labelColor=1f1f1f&logoColor=white) | ![Validity](https://img.shields.io/badge/Validity-ACTIVE-2EA44F?style=flat-square) | ![Earned](https://img.shields.io/badge/PLS-555?style=flat-square) |
+| ![Certified_in_Transportation_%26_Logistics_CTL](https://img.shields.io/badge/ASCM-Certified_in_Transportation_%26_Logistics_CTL-1565C0?style=for-the-badge&labelColor=1f1f1f&logoColor=white) | ![Validity](https://img.shields.io/badge/Validity-ACTIVE-2EA44F?style=flat-square) | ![Earned](https://img.shields.io/badge/CTL-555?style=flat-square) |
 
 ---
 
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:36BCF7,50:2c5364,100:0f2027&height=120&section=footer&reversal=true" alt="Footer" width="100%" />
+</div>
