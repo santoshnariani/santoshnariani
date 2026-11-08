@@ -57,7 +57,7 @@
 
 | Certification | Validity | Designation |
 |:--|:--:|:--:|
-| ![Logistics_%26_Supply_Chain_Management](https://img.shields.io/badge/Professional_Designation-Logistics_%26_Supply_Chain_Management-00897B?style=for-the-badge&labelColor=1f1f1f&logoColor=white) | ![Validity](https://img.shields.io/badge/Validity-ACTIVE-2EA44F?style=flat-square) | ![Earned](https://img.shields.io/badge/PLS-555?style=flat-square) |
+| ![Logistics_%26_Supply_Chain_Management](https://img.shields.io/badge/ASCM-Professional_Designation_in_Logistics_%26_Supply_Chain_Management-00897B?style=for-the-badge&labelColor=1f1f1f&logoColor=white) | ![Validity](https://img.shields.io/badge/Validity-ACTIVE-2EA44F?style=flat-square) | ![Earned](https://img.shields.io/badge/PLS-555?style=flat-square) |
 | ![Certified_in_Transportation_%26_Logistics_CTL](https://img.shields.io/badge/ASCM-Certified_in_Transportation_%26_Logistics_CTL-1565C0?style=for-the-badge&labelColor=1f1f1f&logoColor=white) | ![Validity](https://img.shields.io/badge/Validity-ACTIVE-2EA44F?style=flat-square) | ![Earned](https://img.shields.io/badge/CTL-555?style=flat-square) |
 
 ---
