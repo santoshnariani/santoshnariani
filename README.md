@@ -6,7 +6,7 @@
 
 **Python · Cloud & DevOps · Building AI Agents & Agentic Systems**
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Building+AI+agents+with+LLMs;Designing+agentic+systems;Python+%7C+FastAPI+%7C+Pydantic;Docker+%7C+Kubernetes+%7C+AWS" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Building+AI+agents+with+LLMs;Designing+agentic+systems;Exploring+the+Future+of+Agentic+AI;Bridging+Business+Strategy+and+Technology" alt="Typing SVG" />
 
 </div>
 
