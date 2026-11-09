@@ -10,9 +10,8 @@
 
 </div>
 
-<br/>
----
 
+---
 
 <h3 align="center">🎯 Currently exploring, experimenting &amp; building around 🚀</h3>
 
