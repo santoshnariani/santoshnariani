@@ -10,6 +10,27 @@
 
 </div>
 
+<br/>
+---
+
+
+<h3 align="center">🎯 Currently exploring, experimenting &amp; building around 🚀</h3>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Generative_AI-%26_LLMs-FF6F61?style=for-the-badge&logo=anthropic&logoColor=white&labelColor=1A1B27" alt="Generative AI & LLMs" />
+  <img src="https://img.shields.io/badge/Agentic-%26_Multi--Agent_Architectures-F7B731?style=for-the-badge&logo=probot&logoColor=white&labelColor=1A1B27" alt="Agentic & Multi-Agent Architectures" />
+  <br/>
+  <img src="https://img.shields.io/badge/RAG-Retrieval--Augmented_Generation-20BF6B?style=for-the-badge&logo=bookstack&logoColor=white&labelColor=1A1B27" alt="Retrieval-Augmented Generation" />
+  <img src="https://img.shields.io/badge/AI--Powered-Software_Engineering-36BCF7?style=for-the-badge&logo=githubcopilot&logoColor=white&labelColor=1A1B27" alt="AI-powered Software Engineering" />
+  <br/>
+  <img src="https://img.shields.io/badge/Enterprise_AI-Architecture_%26_Integration-A55EEA?style=for-the-badge&logo=amazonaws&logoColor=white&labelColor=1A1B27" alt="Enterprise AI Architecture & Integration" />
+</p>
+
+<p align="center">
+  <sub>⚡ <b>Ideas</b> ➜ 🧪 <b>Prototypes</b> ➜ 🏗️ <b>Production</b> ⚡</sub>
+</p>
+
+
 ---
 
 ## 🛠️ My Tech Stack
