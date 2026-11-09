@@ -82,6 +82,20 @@
 
 ---
 
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" alt="divider" />
+
+## 💬 My Philosophy
+
+<p align="center">
+  <i>“The future belongs to leaders who can connect business vision,<br/>engineering excellence and intelligent technology.”</i>
+</p>
+
+<p align="center">
+  <b>📖 Always Learning &nbsp;•&nbsp; 🧪 Always Experimenting &nbsp;•&nbsp; 🏗️ Always Building</b>
+</p>
+
+---
+
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:36BCF7,50:2c5364,100:0f2027&height=120&section=footer&reversal=true" alt="Footer" width="100%" />
 </div>
